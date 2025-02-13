@@ -49,6 +49,17 @@
                 },
                 {
                     "name": "",
+                    "id": "c24885f1-d854-4208-9a3d-3f3a0e19e857",
+                    "path": "<Keyboard>/space",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Catch",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
                     "id": "e654d14d-596e-4b6e-9228-0c8f805ee010",
                     "path": "<Gamepad>/leftStick",
                     "interactions": "",
