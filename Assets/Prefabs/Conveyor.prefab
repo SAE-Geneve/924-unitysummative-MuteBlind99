@@ -44,7 +44,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5092121398787589805}
   m_Layer: 0
-  m_Name: DispenderPoint
+  m_Name: DispenderPointA
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
